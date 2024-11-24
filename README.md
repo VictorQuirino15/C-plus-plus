@@ -1,2 +1,3 @@
-# C-plus-plus
-Repositório de C++ produzido durante a cadeira de Técnicas de Programação na UFPB.
+# Projeto Teste
+
+Repositório de Técnicas de Programação em C++ na UFPB
