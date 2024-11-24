@@ -1,0 +1,10 @@
+#include <iostream>
+
+extern int numero;
+extern void escreve();
+
+int main(){
+	
+	escreve();
+	return 0;
+}
